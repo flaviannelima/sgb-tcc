@@ -69,7 +69,7 @@
     <p>Nenhum registro encontrado</p>
     @endif
     <footer>
-        Sistema de Gerenciamento de Biblioteca - Gerado em: {{date('d/m/Y H:i')}} - Usuário: {{auth()->user()->name}}
+        Sistema de Gestão de Biblioteca - Gerado em: {{date('d/m/Y H:i')}} - Usuário: {{auth()->user()->name}}
     </footer>
 </body>
 

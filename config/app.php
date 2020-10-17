@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'SGB - Sistema de Gerenciamento de Biblioteca'),
+    'name' => env('APP_NAME', 'SGB - Sistema de Gestão de Biblioteca'),
 
     /*
     |--------------------------------------------------------------------------
